@@ -1,8 +1,5 @@
 .about-us-container {
   width: 750px;
-  /* margin: 0 auto; */
-  /* padding: 20px; */
-  /* background-color: red; */
   text-align: justify;
   font-family: sans-serif;
 }
@@ -10,14 +7,12 @@
 .about-us-heading {
   font-size: 32px;
   font-weight: bold;
-  /* color: #333; */
   color: white;
   margin-bottom: 20px;
 }
 
 .about-us-description {
   font-size: 25px;
-  /* color: #666; */
   color: white;
   margin-bottom: 30px;
   margin-top: 30px;
@@ -25,9 +20,7 @@
 }
 
 .about-us-content {
-  /* font-size: 10px; */
   margin-bottom: 20px;
-  /* color: red; */
   color: white;
 }
 .plant_logo_right {

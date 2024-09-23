@@ -2,7 +2,7 @@
   "name": "shoppingcart",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://premjp777.github.io/e-plantShopping",
+  "homepage": "https://rishitabura.github.io/e-plantShopping",
   "type": "module",
   "scripts": {
     "dev": "vite",
